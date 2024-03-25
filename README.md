@@ -4,5 +4,4 @@
 
 新需求[新工具],欢迎[提交 Issues](https://github.com/EdgeSecurityTeam/edgetools/issues)。
 
-![](tools.png)
-
+![](images/tools.png)
